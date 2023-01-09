@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ttann.trc@gmail.com
+	name = Rungthip Chaothayee
